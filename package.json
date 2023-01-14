@@ -67,7 +67,7 @@
     "scripty": "^1.8.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.27.1",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.3.12",
     "webpack-livereload-plugin": "^2.2.0",
     "webpack-manifest-plugin": "^2.0.4",
     "webpack-merge": "^4.1.5",
